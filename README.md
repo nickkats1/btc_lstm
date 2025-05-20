@@ -73,7 +73,7 @@ epochs = 1000
 
 ### After the usual steps ...
 
-![prediction_vs_actual](images/actual_predicted.png)
+![prediction_vs_actual](images/predicted_vs_actual.png)
 
 
 
